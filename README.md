@@ -1,4 +1,4 @@
-## Hi there 👋
+Keeping my 'about' info DRY. Here's [my site](https://earlps.net/about)
 
 <!--
 **elpachongco/elpachongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
